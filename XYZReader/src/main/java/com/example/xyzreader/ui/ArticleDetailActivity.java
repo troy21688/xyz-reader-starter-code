@@ -33,7 +33,7 @@ public class ArticleDetailActivity extends ActionBarActivity
     private int mSelectedItemUpButtonFloor = Integer.MAX_VALUE;
     private int mTopInset;
 
-    //TEST Commit
+    //Testing the commit
     private ViewPager mPager;
     private MyPagerAdapter mPagerAdapter;
     private View mUpButtonContainer;

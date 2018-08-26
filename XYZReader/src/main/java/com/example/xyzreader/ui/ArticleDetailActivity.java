@@ -34,6 +34,7 @@ public class ArticleDetailActivity extends ActionBarActivity
     private int mTopInset;
 
     //Testing the commit
+    //Testing again
     private ViewPager mPager;
     private MyPagerAdapter mPagerAdapter;
     private View mUpButtonContainer;

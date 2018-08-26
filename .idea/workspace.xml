@@ -123,8 +123,8 @@
       <file leaf-file-name="ArticleDetailActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+            <state relative-caret-position="270">
+              <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -2615,8 +2615,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/XYZReader/src/main/java/com/example/xyzreader/ui/ArticleDetailActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="35" column="24" lean-forward="false" selection-start-line="35" selection-start-column="24" selection-end-line="35" selection-end-column="24" />
+        <state relative-caret-position="270">
+          <caret line="36" column="19" lean-forward="false" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
           <folding />
         </state>
       </provider>

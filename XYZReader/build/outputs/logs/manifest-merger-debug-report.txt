@@ -3,6 +3,7 @@ manifest
 ADDED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3d913a9e147545e934aed91120450185/AndroidManifest.xml:2:1-14:12
 MERGED from [com.android.support:design:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/e91ad7aee74e4c194a8e311938a2737f/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-v13:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9383d3053c33e7602756219658b13422/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/10b5e1fa77cc27c8a8e9d9e48dc23003/AndroidManifest.xml:17:1-31:12
@@ -18,6 +19,7 @@ MERGED from [com.android.support:animated-vector-drawable:25.3.0] /Users/troychu
 MERGED from [com.android.support:support-vector-drawable:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.0.aar/15916806184843abfc23c9efb538ee6d/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-compat:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/632d2a43d6e643d8993a41029fc35e17/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:cardview-v7:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/264ad1566ca50729d9f97e16f9b635bd/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/22c961502e962e8cc2a53af40072a4b3/AndroidManifest.xml:17:1-22:12
 INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
 INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:1:1-48:12
 	package
@@ -50,6 +52,8 @@ ADDED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/A
 		ADDED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:9:22-76
 application
 ADDED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml:11:5-46:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3d913a9e147545e934aed91120450185/AndroidManifest.xml:7:5-12:19
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3d913a9e147545e934aed91120450185/AndroidManifest.xml:7:5-12:19
 MERGED from [com.android.support:design:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/e91ad7aee74e4c194a8e311938a2737f/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:design:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/e91ad7aee74e4c194a8e311938a2737f/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-v13:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9383d3053c33e7602756219658b13422/AndroidManifest.xml:29:5-20
@@ -146,6 +150,8 @@ uses-sdk
 INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
 INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3d913a9e147545e934aed91120450185/AndroidManifest.xml:5:5-44
+MERGED from [com.squareup.picasso:picasso:2.71828] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3d913a9e147545e934aed91120450185/AndroidManifest.xml:5:5-44
 MERGED from [com.android.support:design:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/e91ad7aee74e4c194a8e311938a2737f/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:design:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/e91ad7aee74e4c194a8e311938a2737f/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:support-v13:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9383d3053c33e7602756219658b13422/AndroidManifest.xml:21:5-23:55
@@ -176,6 +182,8 @@ MERGED from [com.android.support:support-compat:25.3.0] /Users/troychuinard/.gra
 MERGED from [com.android.support:support-compat:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.0.aar/632d2a43d6e643d8993a41029fc35e17/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:cardview-v7:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/264ad1566ca50729d9f97e16f9b635bd/AndroidManifest.xml:20:5-43
 MERGED from [com.android.support:cardview-v7:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.0.aar/264ad1566ca50729d9f97e16f9b635bd/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/22c961502e962e8cc2a53af40072a4b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:27.1.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/exifinterface-27.1.0.aar/22c961502e962e8cc2a53af40072a4b3/AndroidManifest.xml:20:5-44
 INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
 INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
 	tools:overrideLibrary
@@ -188,6 +196,14 @@ INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/mai
 		INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
 		ADDED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
 		INJECTED from /Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/src/main/AndroidManifest.xml
+provider#com.squareup.picasso.PicassoProvider
+ADDED from [com.squareup.picasso:picasso:2.71828] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3d913a9e147545e934aed91120450185/AndroidManifest.xml:8:9-11:40
+	android:authorities
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3d913a9e147545e934aed91120450185/AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3d913a9e147545e934aed91120450185/AndroidManifest.xml:11:13-37
+	android:name
+		ADDED from [com.squareup.picasso:picasso:2.71828] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/picasso-2.71828.aar/3d913a9e147545e934aed91120450185/AndroidManifest.xml:9:13-64
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/design-25.3.0.aar/e91ad7aee74e4c194a8e311938a2737f/AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:support-v13:25.3.0] /Users/troychuinard/.gradle/caches/transforms-1/files-1.1/support-v13-25.3.0.aar/9383d3053c33e7602756219658b13422/AndroidManifest.xml:25:5-27:34

@@ -26,6 +26,7 @@ import com.example.xyzreader.R;
 import com.example.xyzreader.data.ArticleLoader;
 import com.example.xyzreader.data.ItemsContract;
 import com.example.xyzreader.data.UpdaterService;
+import com.squareup.picasso.Picasso;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -184,10 +185,13 @@ public class ArticleListActivity extends ActionBarActivity implements
                         + "<br/>" + " by "
                         + mCursor.getString(ArticleLoader.Query.AUTHOR)));
             }
-            holder.thumbnailView.setImageUrl(
-                    mCursor.getString(ArticleLoader.Query.THUMB_URL),
-                    ImageLoaderHelper.getInstance(ArticleListActivity.this).getImageLoader());
-            holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
+
+            //TODO: I am trying to use Picasso and am unsure why the ImageViews are not populating
+            Picasso.get().load(ArticleLoader.Query.THUMB_URL).fit().into(holder.thumbnailView);
+//            holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
+//            holder.thumbnailView.setImageUrl(
+//                    mCursor.getString(ArticleLoader.Query.THUMB_URL),
+//                    ImageLoaderHelper.getInstance(ArticleListActivity.this).getImageLoader());
         }
 
         @Override

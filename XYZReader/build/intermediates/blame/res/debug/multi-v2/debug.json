@@ -1,21 +1,6 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-bn-rBD_values-bn-rBD.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/troychuinard/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/10b5e1fa77cc27c8a8e9d9e48dc23003/res/values-bn-rBD/values-bn-rBD.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,164,272,395,507,613,707,812,941,1019,1097,1184,1294,1410,1517,1627,1733,1846,1974,2079,2169",
-                        "endColumns": "108,107,122,111,105,93,104,128,77,77,86,109,115,106,109,105,112,127,104,89,100",
-                        "endOffsets": "159,267,390,502,608,702,807,936,1014,1092,1179,1289,1405,1512,1622,1728,1841,1969,2074,2164,2265"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-ko_values-ko.arsc.flat",
             "map": [
                 {
@@ -26,6 +11,21 @@
                         "startOffsets": "55,150,258,381,475,577,659,757,863,942,1018,1098,1196,1291,1386,1486,1582,1681,1796,1890,1968",
                         "endColumns": "94,107,122,93,101,81,97,105,78,75,79,97,94,94,99,95,98,114,93,77,100",
                         "endOffsets": "145,253,376,470,572,654,752,858,937,1013,1093,1191,1286,1381,1481,1577,1676,1791,1885,1963,2064"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-bn-rBD_values-bn-rBD.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/troychuinard/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/10b5e1fa77cc27c8a8e9d9e48dc23003/res/values-bn-rBD/values-bn-rBD.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,164,272,395,507,613,707,812,941,1019,1097,1184,1294,1410,1517,1627,1733,1846,1974,2079,2169",
+                        "endColumns": "108,107,122,111,105,93,104,128,77,77,86,109,115,106,109,105,112,127,104,89,100",
+                        "endOffsets": "159,267,390,502,608,702,807,936,1014,1092,1179,1289,1405,1512,1622,1728,1841,1969,2074,2164,2265"
                     }
                 }
             ]
@@ -141,21 +141,6 @@
             ]
         },
         {
-            "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/troychuinard/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/10b5e1fa77cc27c8a8e9d9e48dc23003/res/values-lt/values-lt.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,171,279,402,503,616,703,812,933,1015,1096,1181,1290,1399,1499,1609,1713,1826,1956,2057,2140",
-                        "endColumns": "115,107,122,100,112,86,108,120,81,80,84,108,108,99,109,103,112,129,100,82,100",
-                        "endOffsets": "166,274,397,498,611,698,807,928,1010,1091,1176,1285,1394,1494,1604,1708,1821,1951,2052,2135,2236"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-v17_values-v17.arsc.flat",
             "map": [
                 {
@@ -167,6 +152,21 @@
                         "endLines": "4,8,11,14,17,21,25,28,31,34,38,41,45,49",
                         "endColumns": "12,12,12,12,12,12,12,12,12,12,12,12,12,12",
                         "endOffsets": "223,451,609,759,931,1159,1401,1572,1746,1915,2188,2388,2592,2921"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-lt_values-lt.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/troychuinard/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/10b5e1fa77cc27c8a8e9d9e48dc23003/res/values-lt/values-lt.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,171,279,402,503,616,703,812,933,1015,1096,1181,1290,1399,1499,1609,1713,1826,1956,2057,2140",
+                        "endColumns": "115,107,122,100,112,86,108,120,81,80,84,108,108,99,109,103,112,129,100,82,100",
+                        "endOffsets": "166,274,397,498,611,698,807,928,1010,1091,1176,1285,1394,1494,1604,1708,1821,1951,2052,2135,2236"
                     }
                 }
             ]
@@ -376,21 +376,6 @@
             ]
         },
         {
-            "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/troychuinard/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/10b5e1fa77cc27c8a8e9d9e48dc23003/res/values-es/values-es.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,172,280,403,516,624,709,810,938,1014,1090,1172,1279,1379,1478,1586,1693,1800,1922,2022,2104",
-                        "endColumns": "116,107,122,112,107,84,100,127,75,75,81,106,99,98,107,106,106,121,99,81,100",
-                        "endOffsets": "167,275,398,511,619,704,805,933,1009,1085,1167,1274,1374,1473,1581,1688,1795,1917,2017,2099,2200"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-ja_values-ja.arsc.flat",
             "map": [
                 {
@@ -401,6 +386,21 @@
                         "startOffsets": "55,152,259,380,473,578,660,758,866,943,1019,1097,1199,1298,1393,1496,1591,1687,1798,1895,1973",
                         "endColumns": "96,106,120,92,104,81,97,107,76,75,77,101,98,94,102,94,95,110,96,77,100",
                         "endOffsets": "147,254,375,468,573,655,753,861,938,1014,1092,1194,1293,1388,1491,1586,1682,1793,1890,1968,2069"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-es_values-es.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/troychuinard/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/10b5e1fa77cc27c8a8e9d9e48dc23003/res/values-es/values-es.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,172,280,403,516,624,709,810,938,1014,1090,1172,1279,1379,1478,1586,1693,1800,1922,2022,2104",
+                        "endColumns": "116,107,122,112,107,84,100,127,75,75,81,106,99,98,107,106,106,121,99,81,100",
+                        "endOffsets": "167,275,398,511,619,704,805,933,1009,1085,1167,1274,1374,1473,1581,1688,1795,1917,2017,2099,2200"
                     }
                 }
             ]
@@ -421,21 +421,6 @@
             ]
         },
         {
-            "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-kk-rKZ_values-kk-rKZ.arsc.flat",
-            "map": [
-                {
-                    "source": "/Users/troychuinard/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/10b5e1fa77cc27c8a8e9d9e48dc23003/res/values-kk-rKZ/values-kk-rKZ.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
-                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,167,275,398,501,611,696,802,921,1002,1082,1163,1266,1371,1469,1576,1685,1785,1900,1999,2080",
-                        "endColumns": "111,107,122,102,109,84,105,118,80,79,80,102,104,97,106,108,99,114,98,80,100",
-                        "endOffsets": "162,270,393,496,606,691,797,916,997,1077,1158,1261,1366,1464,1571,1680,1780,1895,1994,2075,2176"
-                    }
-                }
-            ]
-        },
-        {
             "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-hy-rAM_values-hy-rAM.arsc.flat",
             "map": [
                 {
@@ -446,6 +431,21 @@
                         "startOffsets": "55,158,266,389,490,600,689,795,910,992,1073,1158,1265,1372,1471,1581,1688,1788,1913,2012,2094",
                         "endColumns": "102,107,122,100,109,88,105,114,81,80,84,106,106,98,109,106,99,124,98,81,100",
                         "endOffsets": "153,261,384,485,595,684,790,905,987,1068,1153,1260,1367,1466,1576,1683,1783,1908,2007,2089,2190"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/res/merged/debug/values-kk-rKZ_values-kk-rKZ.arsc.flat",
+            "map": [
+                {
+                    "source": "/Users/troychuinard/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.0.aar/10b5e1fa77cc27c8a8e9d9e48dc23003/res/values-kk-rKZ/values-kk-rKZ.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,167,275,398,501,611,696,802,921,1002,1082,1163,1266,1371,1469,1576,1685,1785,1900,1999,2080",
+                        "endColumns": "111,107,122,102,109,84,105,118,80,79,80,102,104,97,106,108,99,114,98,80,100",
+                        "endOffsets": "162,270,393,496,606,691,797,916,997,1077,1158,1261,1366,1464,1571,1680,1780,1895,1994,2075,2176"
                     }
                 }
             ]

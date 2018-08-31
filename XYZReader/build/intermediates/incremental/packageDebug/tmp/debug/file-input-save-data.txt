@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Thu Aug 30 20:38:57 CDT 2018
+#Fri Aug 31 16:58:43 CDT 2018
 1.base=/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dexMerger/debug/11
 2.path=classes.dex
 0.baseType=DIRECTORY

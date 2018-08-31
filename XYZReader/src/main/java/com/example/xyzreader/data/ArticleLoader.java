@@ -41,4 +41,9 @@ public class ArticleLoader extends CursorLoader {
         int ASPECT_RATIO = 6;
         int BODY = 7;
     }
+
+    @Override
+    public Uri getUri() {
+        return super.getUri();
+    }
 }

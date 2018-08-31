@@ -20,6 +20,7 @@ import android.util.TypedValue;
 import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.example.xyzreader.R;
@@ -187,7 +188,8 @@ public class ArticleListActivity extends ActionBarActivity implements
             }
 
             //TODO: I am trying to use Picasso and am unsure why the ImageViews are not populating
-            Picasso.get().load(ArticleLoader.Query.THUMB_URL).fit().into(holder.thumbnailView);
+            String uri = mCursor.getString(ArticleLoader.Query.THUMB_URL);
+            Picasso.get().load(uri).fit().into(holder.thumbnailView);
 //            holder.thumbnailView.setAspectRatio(mCursor.getFloat(ArticleLoader.Query.ASPECT_RATIO));
 //            holder.thumbnailView.setImageUrl(
 //                    mCursor.getString(ArticleLoader.Query.THUMB_URL),
@@ -201,13 +203,13 @@ public class ArticleListActivity extends ActionBarActivity implements
     }
 
     public static class ViewHolder extends RecyclerView.ViewHolder {
-        public DynamicHeightNetworkImageView thumbnailView;
+        public ImageView thumbnailView;
         public TextView titleView;
         public TextView subtitleView;
 
         public ViewHolder(View view) {
             super(view);
-            thumbnailView = (DynamicHeightNetworkImageView) view.findViewById(R.id.thumbnail);
+            thumbnailView = (ImageView) view.findViewById(R.id.thumbnail);
             titleView = (TextView) view.findViewById(R.id.article_title);
             subtitleView = (TextView) view.findViewById(R.id.article_subtitle);
         }

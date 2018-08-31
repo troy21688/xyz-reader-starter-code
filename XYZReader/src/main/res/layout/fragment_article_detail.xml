@@ -22,11 +22,6 @@
             android:layout_height="match_parent"
             app:layout_scrollFlags="scroll|exitUntilCollapsed">
 
-            <ImageView
-                android:id="@+id/toolbar_image"
-                android:layout_width="match_parent"
-                android:layout_height="match_parent" />
-
                 <FrameLayout
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content">
@@ -38,10 +33,11 @@
                         android:background="@color/photo_placeholder">
                         <!--suppress AndroidLintContentDescription -->
                         <ImageView
-                            android:id="@+id/photo"
-                            android:layout_width="100dp"
-                            android:layout_height="100dp" />
-
+                            android:id="@+id/toolbar_image"
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:scaleType="centerCrop"
+                            android:fitsSystemWindows="true"/>
                         <View
                             android:layout_width="match_parent"
                             android:layout_height="112dp"
@@ -100,6 +96,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                app:layout_scrollFlags="scroll|enterAlways"
                 app:layout_collapseMode="pin"
                 />
 

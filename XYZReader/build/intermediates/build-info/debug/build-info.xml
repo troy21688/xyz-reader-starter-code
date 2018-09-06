@@ -1,48 +1,48 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="x86"
-    api-level="26"
+    abi="armeabi-v7a,armeabi"
+    api-level="25"
     build-mode="COLD"
     density="560dpi"
     format="10"
-    ir-eligibility="COMPATIBLE"
+    ir-eligibility="R_CLASS_CHANGE"
     plugin-version="3.1.1"
-    timestamp="1535755374801"
+    timestamp="1536193304255"
     token="-2896131361494052987"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="2372" />
+        duration="1168" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="70" />
+        duration="152" />
     <task
         name="verifier"
-        duration="30" />
+        duration="152" />
 
     <artifact
-        location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
+        location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
         type="SPLIT" />
+    <artifact
+        location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/instant-run-apk/debug/XYZReader-debug.apk"
+        type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1535752703600"
+        timestamp="1536192336279"
         verifier="FULL_BUILD_REQUESTED" >
-        <artifact
-            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/dep/dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_2.apk"
+            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
+            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_2.apk"
             type="SPLIT" />
         <artifact
             location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_1.apk"
@@ -57,13 +57,13 @@
             location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_5.apk"
             type="SPLIT" />
         <artifact
+            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_6.apk"
+            type="SPLIT" />
+        <artifact
             location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
             type="SPLIT" />
         <artifact
             location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_6.apk"
             type="SPLIT" />
         <artifact
             location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_9.apk"
@@ -75,29 +75,14 @@
     <build
         build-mode="COLD"
         ir-eligibility="R_CLASS_CHANGE"
-        timestamp="1535755035160"
+        timestamp="1536193304255"
         verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/resources/instant-run/debug/resources-debug.apk"
-            type="SPLIT" />
-        <artifact
-            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_4.apk"
-            type="SPLIT" />
         <artifact
             location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_7.apk"
-            type="SPLIT" />
-    </build>
-    <build
-        build-mode="COLD"
-        ir-eligibility="COMPATIBLE"
-        timestamp="1535755374801"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/split-apk/debug/slices/slice_3.apk"
-            type="SPLIT" />
+            location="/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/instant-run-apk/debug/XYZReader-debug.apk"
+            type="SPLIT_MAIN" />
     </build>
 
 </instant-run>

@@ -1,4 +1,4 @@
-#Wed Sep 05 19:06:06 CDT 2018
-base.0=/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dexMerger/debug/2
+#Wed Sep 05 20:14:49 CDT 2018
+base.0=/Users/troychuinard/Code/xyz-reader-starter-code/XYZReader/build/intermediates/transforms/dexMerger/debug/3
 path.0=classes.dex
 renamed.0=classes.dex
